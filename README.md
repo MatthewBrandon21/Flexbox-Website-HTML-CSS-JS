@@ -1,2 +1,5 @@
-# Flexbox Website HTML CSS JS
- Dicoding Web Programming Submission
+
+# Flexbox Website
+
+Mainly develop HTML CSS but also little bit JS for filtering
+
